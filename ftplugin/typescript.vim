@@ -6,7 +6,6 @@ let b:did_ftplugin = 1
 let s:cpo_save = &cpo
 set cpo-=C
 
-compiler typescript
 setlocal commentstring=//\ %s
 
 " Set 'formatoptions' to break comment lines but not other lines,
