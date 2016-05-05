@@ -1,5 +1,5 @@
 " Vim syntax file
-" Language: typescript
+" Language: javascript
 " Author: MicroSoft Open Technologies Inc.
 " Version: 0.1
 " Credits: Zhao Yi, Claudio Fleiner, Scott Shattuck, Jose Elera Campana

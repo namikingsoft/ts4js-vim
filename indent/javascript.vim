@@ -1,5 +1,5 @@
 " Vim indent file
-" Language: Typescript
+" Language: javascript
 " Acknowledgement: Based off of vim-ruby maintained by Nikolai Weibull http://vim-ruby.rubyforge.org
 
 " 0. Initialization {{{1
